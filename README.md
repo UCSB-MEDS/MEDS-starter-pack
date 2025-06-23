@@ -19,9 +19,10 @@ Shared resources, guidelines, and reference materials collaboratively developed 
 - [Commenting Code Guidelines (from EDS 220)](https://meds-eds-220.github.io/MEDS-eds-220-course/book/appendices/comments-guidelines.html)
 - [README Guidelines](https://ucsb-meds.github.io/README-guidelines/)
 
+## Reports & Dashboards
+- [MEDS PLO Report](https://ucsb-meds.github.io/MEDS-PLO/) & [source code](https://github.com/UCSB-MEDS/MEDS-PLO)
+- [Bren Student Data Explorer](https://shinyapps.bren.ucsb.edu/student-data-explorer/) & [source code](https://github.com/UCSB-MEDS/shiny-dashboard)
+
 ## Shared accounts
 - [UCSB-MEDS GitHub Organization](https://github.com/UCSB-MEDS) (Sam Shanny-Csik or Jamie Montgomery can add collaborators)
 - [MEDS Capstone Shared Google Drive](https://drive.google.com/drive/u/0/folders/0AF5r-wdIP3vnUk9PVA) (Sam Shanny-Csik, Jamie Montgomery, or Carmen Galaz García can add collaborators)
-
-## Misc.
-- [Bren Student Data Explorer](https://shinyapps.bren.ucsb.edu/student-data-explorer/) & [source code](https://github.com/UCSB-MEDS/shiny-dashboard)
