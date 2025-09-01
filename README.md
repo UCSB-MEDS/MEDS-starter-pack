@@ -7,7 +7,7 @@ Shared resources, guidelines, and reference materials collaboratively developed 
 - [MEDS Curriculum Cohesion (MCCC) notes](https://docs.google.com/document/d/1_fzgUF-JUvjcI8w3OfR50FilHEMgI44k-aJcqPMJQVM/edit?tab=t.0) (running meeting notes)
 - [MEDS Teaching Tenets & Objectives](https://docs.google.com/document/d/1950FEdqtBu3XFcea-FB6duLVU9eNtiBn5Zzokxlnthc/edit?tab=t.0#heading=h.o3q7p4hxhnic)
 - [MEDS Generative AI Guidelines](https://docs.google.com/document/d/1zS2feiWGEmw6-slkl1IATRmA85172mCo4RyHYz8fSd4/edit?tab=t.0) + [Generative AI in MEDS MCCC discussion notes](https://docs.google.com/document/d/1b8nKdmAiwmfZTDSQbOLQFK8hBoK57mQSx9hpRoJg4MQ/edit?tab=t.0#heading=h.6tb9yf48k23)
-- [Professional Portfolio Calendar (2025-26)](https://docs.google.com/spreadsheets/d/1qYI7bnL46YCzzFn2NAh-plCFR2l8TsU4SaJzQQJHuKU/edit?gid=789665699#gid=789665699) (DRAFT; must be reviewed & tidied up before sharing with students)
+- [Professional Portfolio Calendar (2025-26)](https://docs.google.com/spreadsheets/d/1ttUyJWGn2GHFThHCbUHl4ByfK1a_UzJ51QwRZRynUbc/edit?gid=457321000#gid=457321000) (living doc; may be updated throughout the year)
 
 ## Course website & syllabus development
 
