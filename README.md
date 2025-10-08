@@ -11,6 +11,7 @@ Shared resources, guidelines, and reference materials collaboratively developed 
 ## Course website & syllabus development
 
 - [EDS Quarto Website template](https://github.com/UCSB-MEDS/EDS-website-template) (see table below for links to all MEDS course websites)
+- [A Guide for Defining MEDS Course Prerequisites for non-MEDS Students](https://docs.google.com/document/d/15y2RXcqdsr5PCgv6XjS0M72xpmqMwp-MFOW4E5yATTA/edit?usp=sharing)
 - [MEDS Course Attendance Recommendations](https://docs.google.com/document/d/1ewQdgkAPluPrW78rbHt6nPm5w5JSCu_I9__XM9Ksdjs/edit?tab=t.0#heading=h.zafksxm7fdqm)
 - [MEDS Generative AI Guidelines](https://docs.google.com/document/d/1zS2feiWGEmw6-slkl1IATRmA85172mCo4RyHYz8fSd4/edit?tab=t.0) + [Generative AI in MEDS MCCC discussion notes](https://docs.google.com/document/d/1b8nKdmAiwmfZTDSQbOLQFK8hBoK57mQSx9hpRoJg4MQ/edit?tab=t.0#heading=h.6tb9yf48k23)
 
