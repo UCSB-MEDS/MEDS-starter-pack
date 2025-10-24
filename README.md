@@ -3,13 +3,11 @@
 Shared resources, guidelines, and reference materials collaboratively developed by the MEDS team for use by all faculty and staff.
 
 ## Curriculum planning
-
 - [MEDS Curriculum Cohesion (MCCC) notes](https://docs.google.com/document/d/1_fzgUF-JUvjcI8w3OfR50FilHEMgI44k-aJcqPMJQVM/edit?tab=t.0) (running meeting notes)
 - [MEDS Teaching Tenets & Objectives](https://docs.google.com/document/d/1950FEdqtBu3XFcea-FB6duLVU9eNtiBn5Zzokxlnthc/edit?tab=t.0#heading=h.o3q7p4hxhnic)
 - [Professional Portfolio Calendar (2025-26)](https://docs.google.com/spreadsheets/d/1ttUyJWGn2GHFThHCbUHl4ByfK1a_UzJ51QwRZRynUbc/edit?gid=457321000#gid=457321000) (living doc; may be updated throughout the year)
-
+  
 ## Course website & syllabus development
-
 - [EDS Quarto Website template](https://github.com/UCSB-MEDS/EDS-website-template) (see table below for links to all MEDS course websites)
 - [A Guide for Defining MEDS Course Prerequisites for non-MEDS Students](https://docs.google.com/document/d/15y2RXcqdsr5PCgv6XjS0M72xpmqMwp-MFOW4E5yATTA/edit?usp=sharing)
 - [MEDS Course Attendance Recommendations](https://docs.google.com/document/d/1ewQdgkAPluPrW78rbHt6nPm5w5JSCu_I9__XM9Ksdjs/edit?tab=t.0#heading=h.zafksxm7fdqm)
@@ -37,6 +35,9 @@ Shared resources, guidelines, and reference materials collaboratively developed 
 - [MEDS Computing Requirements & Software Installation Guide](https://ucsb-meds.github.io/MEDS-installation-guide/) (sent to incoming students ahead of summer orientation)
 - [Commenting Code Guidelines (from EDS 220)](https://meds-eds-220.github.io/MEDS-eds-220-course/book/appendices/comments-guidelines.html)
 - [README Guidelines](https://ucsb-meds.github.io/README-guidelines/)
+
+## Capstone
+- [Master's Project Directory](https://docs.google.com/spreadsheets/d/1LLR0yl8ehaademejScrlM3cYxKQaATLE/edit?gid=1262899490#gid=1262899490) (an easier to explore alternative to the official [Master's Project Directory](https://bren.ucsb.edu/projects))
 
 ## Reports & Dashboards
 - [MEDS PLO Report](https://ucsb-meds.github.io/MEDS-PLO/) & [source code](https://github.com/UCSB-MEDS/MEDS-PLO)
