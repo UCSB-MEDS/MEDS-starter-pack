@@ -23,7 +23,7 @@ Shared resources, guidelines, and reference materials collaboratively developed 
 | EDS 220    | Working with Environmental Data                                | Carmen Galaz García                    | https://meds-eds-220.github.io/MEDS-eds-220-course/    |
 | EDS 222    | Statistics for Environmental Data Science                      | Max Czapanskiy                         | https://eds-222-stats-f25.github.io/                   |
 | EDS 411    | MEDS Capstone Project                                          | Carmen Galaz García                    | https://meds-eds-411.github.io/eds-411-website/        |
-| EDS 232    | Machine Learning in Environmental Data Science                 | Carmen Galaz García                    | coming Spring 2026                                     |
+| EDS 232    | Machine Learning in Environmental Data Science                 | Carmen Galaz García                    | https://meds-eds-232.github.io/EDS-232-course-website/ |
 | EDS 241    | Environmental Policy Evaluation                                | Adam Garber                            | https://garberadamc.github.io/eds241-policy-eval/      |
 | EDS 240    | Data Visualization & Communication                             | Sam Shanny-Csik                        | https://eds-240-data-viz.github.io/                    |
 | EDS 296 | Intro to Shiny                                                    | Sam Shanny-Csik                        | https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/    |
