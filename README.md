@@ -6,6 +6,9 @@ Shared resources, guidelines, and reference materials collaboratively developed 
 - [MEDS Curriculum Cohesion (MCCC) notes](https://docs.google.com/document/d/1_fzgUF-JUvjcI8w3OfR50FilHEMgI44k-aJcqPMJQVM/edit?tab=t.0) (running meeting notes)
 - [MEDS Teaching Tenets & Objectives](https://docs.google.com/document/d/1950FEdqtBu3XFcea-FB6duLVU9eNtiBn5Zzokxlnthc/edit?tab=t.0#heading=h.o3q7p4hxhnic)
 - [Professional Portfolio Calendar (2025-26)](https://docs.google.com/spreadsheets/d/1ttUyJWGn2GHFThHCbUHl4ByfK1a_UzJ51QwRZRynUbc/edit?gid=457321000#gid=457321000) (living doc; may be updated throughout the year)
+
+## Student communications
+- [Guidance for non-Bren student course enrollment requests](https://docs.google.com/document/d/1XICC8SodzLjq_Ow0JCLH4qMNBD1EIAoPkfPBySR0ksM/edit?tab=t.0) (email from Emily Case)
   
 ## Course website & syllabus development
 - [EDS Quarto Website template](https://github.com/UCSB-MEDS/EDS-website-template) (see table below for links to all MEDS course websites)
